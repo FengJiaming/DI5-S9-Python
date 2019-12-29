@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="organisation_fr" uuid="eb3e9649-1ebf-452e-a3e9-b866a682b24c">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\France\S9\Python\DI5-S9-Python\TP5_Database\database\organisation_fr.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
